@@ -1,15 +1,42 @@
 # Deep-learning-COURSE
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/ADAM_ipy.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/AlexNet.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/BACKPROPAGATION.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/Lung_cancer_detection_using_densenet.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/MNIST_Neural_network.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/PYTORCH_MLP.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/VGGNET_16.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/breast_cancer_classification_nn.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/cnn_mri_test_model.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/logistic_regression.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/pytorch_fundamentals.ipynb)
+
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/pytorch_mlp.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/pytorch_single_layer_perceptron.ipynb)
+
+
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/xor_problem_nn.ipynb)
