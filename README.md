@@ -24,7 +24,7 @@
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/breast_cancer_classification_nn.ipynb)
 
 ### mri test model
-[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/cnn_mri_test_model.ipynb)
+[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/cnn_mri_test_model_.ipynb)
 
 ### logistic regression 
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/logistic_regression.ipynb)
