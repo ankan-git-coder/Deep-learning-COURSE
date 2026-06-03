@@ -1,4 +1,4 @@
-# Deep-learning-COURSE
+# Deep-learning-
 ## adam optimizer
 [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ankan-git-coder/Deep-learning-COURSE/blob/main/ADAM_ipy.ipynb)
 
